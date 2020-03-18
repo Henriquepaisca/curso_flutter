@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [{
         "name": "Flutter",
-        "program": "/home/techfield-carlos/workspace/curso_flutter/projeto_perguntas/lib/main.dart",
+        "program": "/home/techfield-carlos/workspace/curso_flutter/projeto_perguntas/lib/login.dart",
         "request": "launch",
         "type": "dart"
 
